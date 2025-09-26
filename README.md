@@ -13,10 +13,10 @@ Este projeto tem como objetivo automatizar o processo de cadastro de produtos em
 O desenvolvimento do projeto foi inspirado em uma aula da Jornada Python, promovida pela Hashtag Treinamentos.
 
 ## Funcionalidades
-- `Funcionalidade 1`: descrição da funcionalidade 1
-- `Funcionalidade 2`: descrição da funcionalidade 2
-- `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
-- `Funcionalidade 3`: descrição da funcionalidade 3
+- `Funcionalidade 1`: Abrir automaticamente o site de cadastro de produtos
+- `Funcionalidade 2`: Fazer login automaticamente
+- `Funcionalidade 3`: Realizar o cadastro das informações do primeiro produto automaticamente
+- `Funcionalidade 4`: Repetir o processo para todos os produtos a serem cadastrados
 
 ## Em funcionamento
 
@@ -26,4 +26,5 @@ O desenvolvimento do projeto foi inspirado em uma aula da Jornada Python, promov
 ## Desenvolvedores
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/228969646?v=4" width=115><br><sub>Yasmim Santos</sub>](https://github.com/yasmimacs)
    
+
 
