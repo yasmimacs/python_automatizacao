@@ -1,6 +1,6 @@
 
 
-# Pacote: pyautogui -> Fazer automações no computador com o Python
+# Pacote: pyautogui -> Fazer automatizações no computador com o Python
 
 import pyautogui as pyag
 import time
