@@ -20,11 +20,14 @@ O desenvolvimento do projeto foi inspirado em uma aula da Jornada Python, promov
 
 ## Em funcionamento
 
+[![video](https://img.youtube.com/vi/kflkf-aBg-E/0.jpg)](https://www.youtube.com/watch?v=kflkf-aBg-E)
+
 ## Ferramentas utilizadas
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="50" height="50">
 
 ## Desenvolvedores
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/228969646?v=4" width=115><br><sub>Yasmim Santos</sub>](https://github.com/yasmimacs)
    
+
 
 
